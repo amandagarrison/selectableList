@@ -1,0 +1,14 @@
+.selected{
+    background-color:teal;
+}
+
+.box{
+    width: 1em;
+    height: 1em;
+    border: purple, solid, 2px;
+    color: purple;
+    display: inline-block;
+    margin: 10px;
+}
+
+
